@@ -7,3 +7,5 @@ Our project endeavors to organize research documents into clusters by leveraging
 
 ### Detail Page
 ![Cluster7](https://github.com/ankitakotadiya/Text_Analysis/assets/27961132/e9b830e2-90ac-4a1e-bd0f-e6de96b2fe53)
+
+Here is the link of Powe Bi Dashboard fileText_Analysis_latest_3.pbix[https://londonmet-my.sharepoint.com/:u:/g/personal/kotadiaa_staff_londonmet_ac_uk/EUYkjY70tRFAn0wEEXSNdWoB-mTNjH8IuVNqULkGRUjhBA?e=SgrdP8]
